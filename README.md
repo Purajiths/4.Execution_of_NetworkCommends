@@ -56,15 +56,13 @@ while True:
 ## Output
 ## PING COMMAND:
 ## Client:
-![WhatsApp Image 2024-05-10 at 11 38 50_00671e41](https://github.com/Purajiths/4.Execution_of_NetworkCommends/assets/145548193/3bf6498e-e6e8-4d6e-8201-a5c938a061da)
+![WhatsApp Image 2024-05-10 at 11 38 50_45976026](https://github.com/Purajiths/4.Execution_of_NetworkCommends/assets/145548193/26760a73-2486-4502-9dbc-460a13b060ef)
 
-## Serve
-![WhatsApp Image 2024-05-10 at 11 38 53_04471d90](https://github.com/Purajiths/4.Execution_of_NetworkCommends/assets/145548193/a3c6ac54-aca5-433f-b39e-91ae0ab117cc)
-r:
+## Server:
+![WhatsApp Image 2024-05-10 at 11 38 53_e95a3cde](https://github.com/Purajiths/4.Execution_of_NetworkCommends/assets/145548193/435b0e16-f226-4238-b286-ac38794f86d0)
 
-## TRACERT C
-![WhatsApp Image 2024-05-10 at 11 38 56_4172da6a](https://github.com/Purajiths/4.Execution_of_NetworkCommends/assets/145548193/4de32fb5-6c78-4f95-bbd7-f2ee4f629eaf)
-OMMAND:
+## TRACERT COMMAND:
+![WhatsApp Image 2024-05-10 at 11 38 56_63cf2552](https://github.com/Purajiths/4.Execution_of_NetworkCommends/assets/145548193/d034bfb4-6ecd-42f1-8928-1d11d726e4fc)
 
 
 
